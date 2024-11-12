@@ -1,0 +1,8 @@
+{
+  "name": "Item Divider",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "96494ddb"
+}
